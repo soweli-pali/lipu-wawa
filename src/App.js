@@ -10,6 +10,9 @@ function App() {
       <div className='App-content'>
         <p>Hi this website now has some content, this is the content, I hope you like the content.</p>
       </div>
+      <div class='App-footer'>
+        <p>🐕</p>
+      </div>
     </div>
   );
 }
