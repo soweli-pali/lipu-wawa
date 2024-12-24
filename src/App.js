@@ -8,7 +8,7 @@ function App() {
         <p>Test website</p>
       </header>
       <div className='App-content'>
-        <p>Hi this website now has some content, this is the content, I hope you like the content.</p>
+        <p>Hi this website now has some new content, this is the new content, I hope you like the new content.</p>
       </div>
       <div class='App-footer'>
         <p>🐕</p>
