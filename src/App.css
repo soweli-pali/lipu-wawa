@@ -3,7 +3,7 @@
   min-height: 100vh;
   flex-direction: column;
   background: linear-gradient(lightblue, pink, white, pink, lightblue);
-  background-size: 100% 100%;
+  background-size: 100% 50%;
   animation: gradientAnimation 20s ease infinite;
 }
 
@@ -12,7 +12,7 @@
     background-position: 0% 0%;
   }
   50% {
-    background-position: 100% 100%;
+    background-position: 100% 200%;
   }
   100% {
     background-position: 0% 0%;
