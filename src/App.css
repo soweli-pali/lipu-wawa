@@ -2,8 +2,8 @@
   text-align: center;
   min-height: 100vh;
   flex-direction: column;
-  background: linear-gradient(lightblue, lightblue, pink, pink, white, white, pink, pink, lightblue, lightblue);
-  background-size: 100% 300%;
+  background: linear-gradient(5deg, lightblue, lightblue, pink, pink, white, white, pink, pink, lightblue, lightblue);
+  background-size: 10% 10%;
   animation: gradientAnimation 20s ease infinite;
 }
 
