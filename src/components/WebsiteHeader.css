@@ -1,0 +1,16 @@
+.website-header {
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+}
+
+.website-title {
+    display: flex;
+    flex: 0;
+    background-color: darkslategray;
+    color: aliceblue;
+    height: 10vh;
+    margin: 0px;
+    padding: 20px;
+}
