@@ -3,14 +3,16 @@
     flex-direction: column;
     margin: 0px;
     padding: 0px;
+    background-color: rgba(0);
 }
 
-.website-title {
-    display: flex;
+.header-main {
     flex: 0;
-    background-color: darkslategrey;
-    color: aliceblue;
-    font-size: 4rem;
-    margin: 0px;
-    padding: 20px;
+    flex-direction: row;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.header-fadeout {
+    height: 2rem;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0));
 }

@@ -7,9 +7,9 @@ const Navbar = () => {
         <nav className="navbar">
             <NavLink 
                 to="/" 
-                className={({ isActive }) => isActive ? 'active-navbar-item' : 'navbar-item'}
+                className={({ isActive }) => isActive ? 'active-title' : 'title'}
             >
-                Home
+                kibtry.net
             </NavLink>
             <NavLink 
                 to="/touys" 

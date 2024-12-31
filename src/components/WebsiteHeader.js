@@ -4,8 +4,8 @@ import './WebsiteHeader.css'
 const WebsiteHeader = () => {
     return (
         <header className="website-header">
-            <h1 className="website-title">kibtry.net</h1>
-            <Navbar/>
+            <div className="header-main"><Navbar/></div>
+            <div className="header-fadeout"/>
         </header>
     )
 }
